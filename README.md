@@ -179,16 +179,6 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 - Write meaningful commit messages
 - Add tests for new functionality
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🔗 Links
-
-- **Documentation**: [Wiki](https://github.com/yourusername/webraptor/wiki)
-- **Issues**: [Bug Reports & Feature Requests](https://github.com/yourusername/webraptor/issues)
-- **Discussions**: [Community Forum](https://github.com/yourusername/webraptor/discussions)
-
 ## 🏆 Acknowledgments
 
 - Built with [Next.js](https://nextjs.org/)
